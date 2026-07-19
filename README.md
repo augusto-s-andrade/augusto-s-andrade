@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Augusto Andrade
 
-<!--
-**augusto-s-andrade/augusto-s-andrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support Engineer based in Madrid, Spain 🇪🇸
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 IT Support Engineer
+- 🖥️ Microsoft 365
+- 💻 Windows & macOS
+- 🏢 Enterprise IT Support
+- 🌍 Learning Azure and Modern Workplace
+
+## Currently learning
+
+- Microsoft 365 Administration
+- Intune
+- Entra ID
+- Azure
+- PowerShell
+
+## Career Goal
+
+Become a Modern Workplace Engineer specialized in Microsoft technologies.
