@@ -6,15 +6,13 @@
 
 ---
 
-## 🚀 About Me
+## 💼 Professional Journey
 
-I'm an IT Support Engineer with more than 15 years of experience supporting enterprise environments.
-
-Currently, I provide onsite and remote support for VIP users and corporate teams, working with Microsoft technologies, Windows, macOS and ITSM tools.
-
-My current career focus is evolving towards **Microsoft Modern Workplace** and **Cloud Administration**, building practical skills in Microsoft 365, Intune, Entra ID, Azure and PowerShell.
-
----
+- 🇧🇷 Built over 15 years of experience in IT Support, working with enterprise environments and end-user support.
+- 🇪🇸 Moved to Spain in 2022 and continued my professional career in IT.
+- 🏢 Currently providing corporate IT support with focus on Microsoft technologies and VIP users.
+- ☁️ Actively expanding my expertise in Microsoft 365, Intune, Entra ID, Azure and PowerShell.
+- 🎯 Goal: Become a Microsoft Modern Workplace Engineer.
 
 ## 🛠️ Technologies
 
