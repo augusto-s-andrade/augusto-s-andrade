@@ -6,7 +6,7 @@
 
 ---
 
-## 💼 Professional Journey
+## 💼 Career Journey
 
 - 🇧🇷 Built over 15 years of experience in IT Support, working with enterprise environments and end-user support.
 - 🇪🇸 Moved to Spain in 2022 and continued my professional career in IT.
