@@ -1,23 +1,76 @@
-# 👋 Hi, I'm Augusto Andrade
+# 👋 Hi, I'm Augusto Salomao de Andrade
 
-IT Support Engineer based in Madrid, Spain 🇪🇸
+**IT Support Engineer | Microsoft 365 | Modern Workplace | Windows | Enterprise IT Support**
 
-## About me
+🇪🇸 Based in Madrid, Spain
 
-- 💼 IT Support Engineer
-- 🖥️ Microsoft 365
-- 💻 Windows & macOS
-- 🏢 Enterprise IT Support
-- 🌍 Learning Azure and Modern Workplace
+---
 
-## Currently learning
+## 🚀 About Me
 
-- Microsoft 365 Administration
-- Intune
-- Entra ID
+I'm an IT Support Engineer with more than 15 years of experience supporting enterprise environments.
+
+Currently, I provide onsite and remote support for VIP users and corporate teams, working with Microsoft technologies, Windows, macOS and ITSM tools.
+
+My current career focus is evolving towards **Microsoft Modern Workplace** and **Cloud Administration**, building practical skills in Microsoft 365, Intune, Entra ID, Azure and PowerShell.
+
+---
+
+## 🛠️ Technologies
+
+### Microsoft
+- Microsoft 365
+- Active Directory
+- Teams
+- SharePoint
+- Outlook
+- Windows 10 / 11
+
+### Endpoint Management
+- SCCM
+- BitLocker
+- LAPS
+- Windows Deployment
+- Hardware Lifecycle
+
+### ITSM
+- ServiceNow
+- CMDB
+- Asset Management
+
+### Operating Systems
+- Windows
+- macOS
+- Android
+
+### Currently Learning
+- Microsoft Intune
+- Microsoft Entra ID
 - Azure
 - PowerShell
+- Microsoft Defender
 
-## Career Goal
+---
 
-Become a Modern Workplace Engineer specialized in Microsoft technologies.
+## 📂 Featured Projects
+
+🔹 Microsoft365-Labs *(coming soon)*
+
+🔹 IT-Knowledge-Base *(coming soon)*
+
+🔹 PowerShell Scripts *(coming soon)*
+
+🔹 Intune Labs *(coming soon)*
+
+---
+
+## 🎯 2026–2027 Goal
+
+Become a **Microsoft Modern Workplace Engineer**, specializing in Microsoft 365, Endpoint Management and Azure Cloud.
+
+---
+
+## 📫 Connect with me
+
+- 💼 LinkedIn: https://linkedin.com/in/augustosandrade
+- 📍 Madrid, Spain
